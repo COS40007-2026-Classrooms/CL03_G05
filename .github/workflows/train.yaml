@@ -41,3 +41,4 @@ jobs:
           path: |
             model_results.png
             metrics.txt
+            training_history.png
